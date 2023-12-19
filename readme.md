@@ -1,7 +1,3 @@
-Certainly! Here's a summary for the provided code:
-
----
-
 # Australian Vehicle Price Prediction
 
 ## Overview
