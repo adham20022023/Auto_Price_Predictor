@@ -38,7 +38,7 @@ The dataset used for this project is the [Australian Vehicle Prices Dataset](htt
 ## Results
 - Achieved an \(R^2\) value of approximately 0.548 for the training set and 0.544 for the test set.
 - The model did not exhibit significant overfitting, as the difference in \(R^2\) values was relatively small.
-- The model did not underfit the training set, as the \(R^2\) value exceeded the specified threshold.
+- The model  underfit the training set, as the \(R^2\) value exceeded the specified threshold.
 
 ---
 
